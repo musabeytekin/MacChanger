@@ -1,4 +1,4 @@
-# MAC address Changer
+# MAC Address Changer
 
 ## Installation
 
